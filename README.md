@@ -10,4 +10,5 @@
   *  CH-Power
 # IDE 
  * Visual Studio Code Express
-    
+# Participants
+ * Number of participants : 1
